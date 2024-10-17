@@ -27,7 +27,7 @@
 				<!-- /wp:heading -->
 
 				<!-- wp:paragraph {"fontSize":"x-large"} -->
-				<p class="has-x-large-font-size"><?php echo esc_html_x( 'Mon, Jan 1', 'Example event date in pattern.', 'twentytwentyfive' ); ?></p>
+				<p class="has-x-large-font-size"><?php echo esc_html_x( 'Dec 12, 2024 - 10AM to 6PM', 'Example event date in pattern.', 'twentytwentyfive' ); ?></p>
 				<!-- /wp:paragraph -->
 
 				<!-- wp:spacer {"height":"0px","style":{"layout":{"selfStretch":"fixed","flexSize":"100px"}}} -->
